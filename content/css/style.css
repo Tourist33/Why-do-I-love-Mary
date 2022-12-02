@@ -1,0 +1,27 @@
+.class1 {
+    font-size: 30px;
+    color: blue;
+}
+.class3 {
+    color :black
+}
+.class-button{
+    font-size: 20px;
+    background-color: brown;
+    color: antiquewhite;
+}
+.gradient{
+    
+        
+        background: linear-gradient(to top, #659B91, #F6C28B);
+        padding: 10px;
+        border: 1px solid #333;
+       
+}
+.gradient2 {
+    background: linear-gradient(to top, #fff, #64AECE);
+        padding: 10px;
+        border: 1px solid #333;
+}
+
+
